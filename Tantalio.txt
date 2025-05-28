@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+
+<html lang="it">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Il Mio Sito</title>
+
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+   <h1 style="color: red; font-size: 40px;">Tantalio!</h1> 
+
+    <p>Nome elemento: Tantalio (Ta)
+Massa atomica: 180,94788 u
+Numero atomico: 73
+Numero di isotopi: 2
+Numero di massa (isotopi): 180Ta e 181Ta
+Temperatura di fusione: 3.017 °C
+Temperatura di ebollizione: 5.458 °C
+Densità: 16,654 g/cm³
+Elettronegatività: 1,5 sulla scala di Pauling
+Anno di scoperta: 1802
+Abbondanza: si trova principalmente nei minerali tantalite e olovotantalite, e la sua abbondanza nella crosta terrestre è di circa 1 ppm.
+Caratteristiche: è un metallo di transizione noto per la sua resistenza alla corrosione e il suo alto punto di fusione. È un metallo grigio scuro e lucido.
+</p>

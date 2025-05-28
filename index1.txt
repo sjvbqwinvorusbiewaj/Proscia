@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+
+<html lang="it">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Il Mio Sito</title>
+
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+   <h1 style="color: red; font-size: 40px;">Terre rare nella tavola periodica!</h1> 
+
+    <p>Le terre rare sono 17 elementi della tavola periodica</p>
